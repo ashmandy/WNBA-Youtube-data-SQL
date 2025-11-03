@@ -12,20 +12,20 @@ Best Day to Post
 Identified which days of the week produced the highest average engagement.
 Finding: Certain weekdays consistently outperformed weekends.
 
-**Top-Performing Videos**:
+**Top Performing Videos**:
 Ranked the top 10 videos by engagement rate and top 5 by post type.
 Finding: Highlights and short recaps consistently outperformed interviews and press events.
 
 **Effect of Video Length**:
 Grouped videos by runtime:
-<3m — short clips
-3–10m — medium length
-10m+ — long form
-Finding: Videos under 3 minutes had the strongest engagement rates.
+- <3m — short clips
+- 3–10m — medium length
+- 10m+ — long form
+- Finding: Videos under 3 minutes had the strongest engagement rates.
 
 **Engagement Over Time**:
 Tracked engagement month by month to see how fan interest shifted across the season.
-Finding: Engagement peaked mid-season, possibly reflecting playoff momentum and key player narratives.
+Finding: Engagement peaked mid season, possibly reflecting playoff momentum and key player narratives.
 
 **Deployment**:
 All queries are included in wnba_youtube_analysis.sql.
