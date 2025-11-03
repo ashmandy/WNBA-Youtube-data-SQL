@@ -32,9 +32,9 @@ All queries are included in wnba_youtube_analysis.sql.
 The Tableau dashboard visualizes engagement trends for easier storytelling and presentation.
 
 **Built With**:
-MySQL — Data aggregation and analysis
-Tableau — Visualization and dashboard creation
-Excel — Manual data collection and cleanup
+1. MySQL — Data aggregation and analysis
+2. Tableau — Visualization and dashboard creation
+3. Excel — Manual data collection and cleanup
 
 **Contributing**:
 Feedback and ideas for scaling this project with automated data collection are welcome.
